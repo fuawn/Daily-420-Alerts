@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/Daily%20420%20Alerts/Images/daily-420.png" alt="GUI Screenshot" width="800"/>
+  <img src="/Images/daily-420.png" alt="GUI Screenshot" width="800"/>
 </p>
 
 A Python-powered tool which automatically plays a sound every day at 4:20 AM and 4:20 PM using the Windows Task Scheduler.
@@ -18,7 +18,7 @@ A Python-powered tool which automatically plays a sound every day at 4:20 AM and
 ---
 
 <p align="center">
-  <img src="/Daily%20420%20Alerts/Images/screenshot.PNG" alt="GUI Screenshot" width="400"/>
+  <img src="Images/screenshot.PNG" alt="GUI Screenshot" width="400"/>
 </p>
 <p align="center">
   <em>The main application window.</em>
